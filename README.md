@@ -173,7 +173,7 @@ pip3 install huggingface-hub>=0.17.1
 Then you can download any individual model file to the current directory, at high speed, with a command like this:
 
 ```shell
-huggingface-cli download TheBloke/Llama-2-7b-Chat-GGUF llama-2-7b-chat.q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
+huggingface-cli download TheBloke/Llama-2-7b-Chat-GGUF llama-2-7b-chat.Q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
 ```
 
 <details>
