@@ -39,7 +39,7 @@ quantized_by: TheBloke
 </div>
 <div style="display: flex; justify-content: space-between; width: 100%;">
     <div style="display: flex; flex-direction: column; align-items: flex-start;">
-        <p style="margin-top: 0.5em; margin-bottom: 0em;"><a href="https://discord.gg/theblokeai">Chat & support: TheBloke's Discord server</a></p>
+        <p style="margin-top: 0.5em; margin-bottom: 0em;"><a href="https://discord.com/invite/Jq4vkcDakD">Chat & support: TheBloke's Discord server</a></p>
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-end;">
         <p style="margin-top: 0.5em; margin-bottom: 0em;"><a href="https://www.patreon.com/TheBlokeAI">Want to contribute? TheBloke's Patreon page</a></p>
